@@ -12,3 +12,7 @@ Used Pytorch to classify the famous Fashion MNIST dataset
 
 <br><br>Achieved performance:
 <br>89.4% on the test dataset
+
+
+<br><br><br>
+Also, attended a workshop on Keras that used Fashion MNIST
