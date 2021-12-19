@@ -2,7 +2,7 @@
 
 Used Pytorch to classify the famous Fashion MNIST dataset
 
-<br><br>##Specifications used:
+<br><br>Specifications used:
 <br>Convolutional Neural Network
 <br>Xavier Initialization
 <br>RELU activation
@@ -10,5 +10,5 @@ Used Pytorch to classify the famous Fashion MNIST dataset
 <br>SGD Optimizer
 <br>50 epochs
 
-<br><br>##Achieved performance:
+<br><br>Achieved performance:
 <br>89.4% on the test dataset
