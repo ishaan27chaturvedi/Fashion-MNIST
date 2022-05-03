@@ -2,6 +2,9 @@
 
 Used Pytorch to classify the famous Fashion MNIST dataset
 
+## Description
+
+
 <br><br>Specifications used:
 <br>Convolutional Neural Network
 <br>Xavier Initialization
@@ -13,6 +16,9 @@ Used Pytorch to classify the famous Fashion MNIST dataset
 <br><br>Achieved performance:
 <br>89.4% on the test dataset
 
+## Getting Started
 
-<br><br><br>
-Also, attended a workshop on Keras that used Fashion MNIST
+### Dependencies
+
+* Python
+* Pytorch
